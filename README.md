@@ -1,3 +1,3 @@
 # linkedList
 Doubly linkedList C++ 
-Doubly linkedList of students , included sort, remove/insertion elements, etc.
+Doubly linkedList of students , include sort, remove/insertion elements, etc.
